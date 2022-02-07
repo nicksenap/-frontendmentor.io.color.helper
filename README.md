@@ -1,5 +1,5 @@
 # Frontendmentor.io Color Helper
-Python script to extract colors from frontendmentor.io to css variables
+Python script to extract colors from frontendmentor.io into css variables
 to run it:
 ```lang=bash
 python main.py your_path_to_style-guide.md
