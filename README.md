@@ -4,7 +4,7 @@ to run it:
 ```lang=bash
 python main.py path_to_style-guide.md
 ```
-example running it aginst the `style-guide.md` file in this repo will output the following:
+example running it aginst the [style-guide.md](https://raw.githubusercontent.com/nicksenap/frontendmentor.io.color.helper/master/style-guide.md) file in this repo will output the following:
 ```lang=css
 :root {
     --moderateBlue: hsl(238, 40%, 52%);
