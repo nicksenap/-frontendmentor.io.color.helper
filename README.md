@@ -2,7 +2,7 @@
 Python script to extract colors from frontendmentor.io into css variables
 to run it:
 ```lang=bash
-python main.py your_path_to_style-guide.md
+python main.py path_to_style-guide.md
 ```
 example running it aginst the `style-guide.md` file in this repo will output the following:
 ```lang=css
